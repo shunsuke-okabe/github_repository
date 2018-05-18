@@ -1,3 +1,5 @@
 project start!
 
 day01 aabbcc
+
+day02 gghhjj
